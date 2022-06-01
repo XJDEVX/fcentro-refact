@@ -1,5 +1,4 @@
 </head>
-
 <body class="sidebar-dark sidebar-icon-only" id="body">
     <div class="container-scroller">
         <!-- partial:partials/_navbar.html -->
@@ -22,8 +21,8 @@
                 <ul class="navbar-nav navbar-nav-right">
                     <li class="nav-item d-none d-lg-flex">
                         <a class="nav-link">
-                            <p class="pt-3" style="line-height: 1px;font-size: 14px !important">Ultimo Ingreso: <span class="font-weight-bold"> <?= $_SESSION['entrada'] ?></span></p>
-                            <p class="p-0" style="line-height: 1px;font-size: 14px !important">Ultima Salida: <span class="font-weight-bold"> <?= $_SESSION['salida'] ?></span></p>
+                            <p class="pt-3" style="line-height: 1px;font-size: 12px !important">Ultimo Ingreso: <span class="font-weight-bold"> <?= $_SESSION['entrada'] ?></span></p>
+                            <p class="p-0" style="line-height: 1px;font-size: 12px !important">Ultima Salida: <span class="font-weight-bold"> <?= $_SESSION['salida'] ?></span></p>
                         </a>
                     </li>
                     <li class="nav-item d-none d-md-block">

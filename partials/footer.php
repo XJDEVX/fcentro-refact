@@ -102,7 +102,7 @@
     const sidebarOffCanvas = document.querySelector('.sidebar-offcanvas')
     offCanvas.addEventListener('click', ()=> {
         sidebarOffCanvas.classList.toggle('active')
-    })    
+    })
 </script>
 </body>
 
