@@ -132,7 +132,7 @@
 	// $('.myinput').flexdatalist({ minLength: 3,
 
 	// noResultsText: '<div class="alert alert-danger" align="center"><button type="button" class="close" data-dismiss="alert">×</button><strong>Producto no encontrado en la base de datos</strong>',
-	//  toggleSelected: true, 
+	//  toggleSelected: true,
 	//  searchContain: true,
 
 
